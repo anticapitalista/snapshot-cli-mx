@@ -1,0 +1,5 @@
+etc/*                  /etc
+new-iso/*              /usr/lib/snapshot-mx/new-iso
+snapshot_exclude.list  /usr/lib/snapshot-mx
+changelog.gz           /usr/share/doc/snapshot-cli-mx
+copyright              /usr/share/doc/snapshot-cli-mx
