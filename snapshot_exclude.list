@@ -1,4 +1,4 @@
-# rsync excludes file for snapshot-mx and snapshot-mx-gui
+# rsync excludes file for mxsnapshot and mxsnapshot-gui
 # version 0.2.7.7 (23.05.2013)
 
 - dev/*

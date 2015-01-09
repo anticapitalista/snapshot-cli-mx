@@ -1,3 +1,10 @@
+snapshot-cli-mx (0.1.9) unstable; urgency=low 
+ 
+  * Updated code to include building a snapshot with a non-default kernel.
+
+ -- anticapitalista <antiX@operamail.com>  Sat, 22 Nov 2014 21:08:00 +0200
+
+
 snapshot-cli-mx (0.1.8) unstable; urgency=low 
  
   * Updated initrd.gz to include load cheat in custom script.
